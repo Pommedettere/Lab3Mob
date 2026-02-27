@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fitness Tips</string>
+    <string name="app_title">30 Days of Fitness</string>
+    <string name="day_prefix">Day</string>
+    <string name="tip_detail_title">Tip of the Day</string>
+
+    <!-- День 1 -->
+    <string name="tip_title_1">Start Small</string>
+    <string name="tip_desc_1">10 minutes of exercise daily</string>
+    <string name="tip_detail_1">Start with just 10 minutes of morning exercise. This will boost your metabolism and give you energy for the whole day. Gradually increase the duration as you build the habit.</string>
+
+    <!-- День 2 -->
+    <string name="tip_title_2">Drink Water</string>
+    <string name="tip_desc_2">Start your day with water</string>
+    <string name="tip_detail_2">Drink a glass of water immediately after waking up. It hydrates your body, kickstarts your metabolism, and helps flush out toxins.</string>
+
+    <!-- День 3 -->
+    <string name="tip_title_3">Walk More</string>
+    <string name="tip_desc_3">Take 5000 steps today</string>
+    <string name="tip_detail_3">Walking is the simplest form of exercise. Aim for 5000 steps today. Take the stairs, park further away, or go for an evening stroll.</string>
+
+    <!-- День 4 -->
+    <string name="tip_title_4">Stretch</string>
+    <string name="tip_desc_4">5 minutes of stretching</string>
+    <string name="tip_detail_4">Stretching improves flexibility, reduces stress, and prevents injuries. Spend just 5 minutes stretching your major muscle groups.</string>
+
+    <!-- День 5 -->
+    <string name="tip_title_5">Sleep Well</string>
+    <string name="tip_desc_5">Get 7-8 hours of sleep</string>
+    <string name="tip_detail_5">Quality sleep is essential for muscle recovery and mental health. Aim for 7-8 hours of uninterrupted sleep tonight.</string>
+
+    <!-- День 6 -->
+    <string name="tip_title_6">Morning Fuel</string>
+    <string name="tip_desc_6">Eat a healthy breakfast</string>
+    <string name="tip_detail_6">Breakfast kickstarts your metabolism and provides energy for the day. Include protein, healthy fats, and complex carbohydrates for lasting energy.</string>
+
+    <!-- День 7 -->
+    <string name="tip_title_7">Take the Stairs</string>
+    <string name="tip_desc_7">Skip the elevator today</string>
+    <string name="tip_detail_7">Taking stairs is an excellent cardio exercise that strengthens your legs and heart. Aim for at least 5 floors today.</string>
+
+    <!-- День 8 -->
+    <string name="tip_title_8">Protein Power</string>
+    <string name="tip_desc_8">Add protein to every meal</string>
+    <string name="tip_detail_8">Protein helps build and repair muscles. Include eggs, chicken, fish, beans, or tofu in your meals throughout the day.</string>
+
+    <!-- День 9 -->
+    <string name="tip_title_9">Posture Check</string>
+    <string name="tip_desc_9">Keep your back straight</string>
+    <string name="tip_detail_9">Good posture prevents back pain and improves breathing. Set reminders to check your posture every hour.</string>
+
+    <!-- День 10 -->
+    <string name="tip_title_10">Rest Day</string>
+    <string name="tip_desc_10">Active recovery is important</string>
+    <string name="tip_detail_10">Rest allows muscles to repair. Do light activities like walking or gentle stretching today. Listen to your body.</string>
+
+    <!-- День 11 -->
+    <string name="tip_title_11">Eat Your Greens</string>
+    <string name="tip_desc_11">Add vegetables to lunch</string>
+    <string name="tip_detail_11">Leafy greens are packed with vitamins and fiber. Add spinach, kale, or broccoli to your lunch for a nutritional boost.</string>
+
+    <!-- День 12 -->
+    <string name="tip_title_12">Core Workout</string>
+    <string name="tip_desc_12">5 minutes of plank today</string>
+    <string name="tip_detail_12">A strong core improves balance and protects your spine. Try plank holds, crunches, and leg raises for 5 minutes.</string>
+
+    <!-- День 13 -->
+    <string name="tip_title_13">Meal Prep</string>
+    <string name="tip_desc_13">Prepare healthy meals ahead</string>
+    <string name="tip_detail_13">Meal prep saves time and helps avoid unhealthy choices. Spend time today preparing lunches for the next few days.</string>
+
+    <!-- День 14 -->
+    <string name="tip_title_14">Cardio Burst</string>
+    <string name="tip_desc_14">10 minutes of jumping jacks</string>
+    <string name="tip_detail_14">High-intensity cardio improves heart health. Do jumping jacks, high knees, or burpees for 10 minutes straight.</string>
+
+    <!-- День 15 -->
+    <string name="tip_title_15">Hydrate</string>
+    <string name="tip_desc_15">Drink 8 glasses of water</string>
+    <string name="tip_detail_15">Proper hydration improves energy and brain function. Carry a water bottle and sip throughout the day.</string>
+
+    <!-- День 16 -->
+    <string name="tip_title_16">Strength Training</string>
+    <string name="tip_desc_16">Bodyweight exercises today</string>
+    <string name="tip_detail_16">Push-ups, squats, and lunges need no equipment. Do 3 sets of each exercise today.</string>
+
+    <!-- День 17 -->
+    <string name="tip_title_17">Mindful Eating</string>
+    <string name="tip_desc_17">Eat without distractions</string>
+    <string name="tip_detail_17">Focus on your food without phone or TV. Chew slowly and savor each bite. This prevents overeating.</string>
+
+    <!-- День 18 -->
+    <string name="tip_title_18">Morning Routine</string>
+    <string name="tip_desc_18">Wake up 30 minutes earlier</string>
+    <string name="tip_detail_18">Use extra morning time for exercise or meditation. Consistent morning routines reduce stress.</string>
+
+    <!-- День 19 -->
+    <string name="tip_title_19">Healthy Snacks</string>
+    <string name="tip_desc_19">Replace chips with nuts</string>
+    <string name="tip_detail_19">Nuts, fruits, and yogurt make great snacks. They provide energy without the crash of processed snacks.</string>
+
+    <!-- День 20 -->
+    <string name="tip_title_20">Outdoor Workout</string>
+    <string name="tip_desc_20">Exercise in nature today</string>
+    <string name="tip_detail_20">Outdoor exercise boosts mood and vitamin D levels. Try running in the park or hiking.</string>
+
+    <!-- День 21 -->
+    <string name="tip_title_21">Track Progress</string>
+    <string name="tip_desc_21">Take measurements today</string>
+    <string name="tip_detail_21">Tracking progress keeps you motivated. Measure your weight or take progress photos.</string>
+
+    <!-- День 22 -->
+    <string name="tip_title_22">Flexibility</string>
+    <string name="tip_desc_22">15 minutes of yoga</string>
+    <string name="tip_detail_22">Yoga improves flexibility and reduces stress. Try sun salutations and basic stretches.</string>
+
+    <!-- День 23 -->
+    <string name="tip_title_23">Cut Sugar</string>
+    <string name="tip_desc_23">Avoid added sugars today</string>
+    <string name="tip_detail_23">Hidden sugars cause energy crashes. Read labels and avoid sugary drinks today.</string>
+
+    <!-- День 24 -->
+    <string name="tip_title_24">Interval Training</string>
+    <string name="tip_desc_24">30 seconds sprint, 60 rest</string>
+    <string name="tip_detail_24">HIIT burns more fat in less time. Alternate between high and low intensity for 15 minutes.</string>
+
+    <!-- День 25 -->
+    <string name="tip_title_25">Iron Intake</string>
+    <string name="tip_desc_25">Eat iron-rich foods</string>
+    <string name="tip_detail_25">Iron prevents fatigue. Include spinach, lentils, or lean red meat in your meals today.</string>
+
+    <!-- День 26 -->
+    <string name="tip_title_26">Dance</string>
+    <string name="tip_desc_26">Dance to your favorite song</string>
+    <string name="tip_detail_26">Dancing is fun cardio that reduces stress. Put on music and move freely for 15 minutes.</string>
+
+    <!-- День 27 -->
+    <string name="tip_title_27">Electrolytes</string>
+    <string name="tip_desc_27">Replenish after workout</string>
+    <string name="tip_detail_27">After exercise, replenish with coconut water or banana. This prevents cramps.</string>
+
+    <!-- День 28 -->
+    <string name="tip_title_28">Consistency</string>
+    <string name="tip_desc_28">Dont skip workouts twice</string>
+    <string name="tip_detail_28">Missing one day is okay. Missing two becomes a habit. Get back on track tomorrow.</string>
+
+    <!-- День 29 -->
+    <string name="tip_title_29">Challenge Yourself</string>
+    <string name="tip_desc_29">Increase weight or reps</string>
+    <string name="tip_detail_29">To get stronger, gradually increase your weights or repetitions. Small progress adds up.</string>
+
+    <!-- День 30 -->
+    <string name="tip_title_30">Celebrate</string>
+    <string name="tip_desc_30">You did 30 days!</string>
+    <string name="tip_detail_30">Congratulations! You have built healthy habits. Plan your next fitness goal and keep going!</string>
+</resources>
